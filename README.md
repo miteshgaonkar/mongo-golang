@@ -1,6 +1,6 @@
 # Go MongoDB REST API
 
-This is a simple RESTful API built with Go and MongoDB. It provides basic CRUD (Create, Read, Update, Delete) operations for managing users.
+This is a simple RESTful API built with Go and MongoDB. It provides basic CRUD (Create, Read, Update, Delete) operations for managing users. (Update part is remaining)
 
 ## Features
 
